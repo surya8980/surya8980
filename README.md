@@ -1,4 +1,4 @@
-# Hi there, I'm Surya 👋
+# Hi there, I'm [Surya Prakash](https://leetcode.com/u/dsuryaprakash89/) 👋
 
 - 👋 Hi, I’m @surya8980, a passionate developer and machine learning enthusiast with a knack for solving challenging problems.
 - 👀 I’m interested in MLOps, deep learning, data science, web development, and competitive programming. I enjoy exploring new technologies and pushing the boundaries of what’s possible with AI.
