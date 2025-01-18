@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @surya8980, a passionate developer and machine learning enthusiast with a knack for solving challenging problems.<br>👀 I’m interested in MLOps, deep learning, data science, web development, and competitive programming. I enjoy exploring new technologies and pushing the boundaries of what’s possible with AI.<br>🌱 I’m currently learning advanced concepts in machine learning, MLOps, and exploring more about software Development.<br>💞️ I’m looking to collaborate on projects related to AI, ML and data science. I also enjoy working on open-source projects, so feel free to reach out!<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm an avid problem-solver and love participating in coding contests on platforms like GeeksforGeeks and LeetCode. When I'm not coding, I'm probably exploring new courses on edX.
-
+  
 
 ## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dsuryaprakashreddy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dsp8980) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Surya_8980) 
